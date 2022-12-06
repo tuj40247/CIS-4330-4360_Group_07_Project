@@ -1,13 +1,13 @@
-# Project Title: Smart Camera
+# Project Title: Luminance Detection
 
 Group Number: 7
 Name: Joshua Hylton (tuj40247@temple.edu)
 
 # Sensor:
-•	Motion Sensor (front-facing camera or rear-facing camera)
+•	•	Luminance Sensor
 
 # Abstract:
-Camera systems can be expensive to set up and not easily available to everyone unlike with a smartphone many consumers have access to them. With the Smart Camera people can use their already available smartphone to function as a motion sensing camera using the camera module already on the phone. All it needs to function is a functioning front facing camera or rear facing camera to detect motion in the set area.
+Lux Light meters can cost anywhere starting around $20 and reads the current luminance in a room. I figured why pay unnecessary money when you can just use what your smartphone already has the capabilities of doing. With my LHT Sensor it will allow you to do this same action through the convenience of your phone.
 
 # Scenario:
-This targets people who would like to use a camera system without breaking the bank to get standalone cameras. This is where the use of Smart Camera comes in to be a more affordable substitute to an actual camera system which can be readily available to the average consumer. A lot of people carry phones with them and even older phones they aren’t using so rather than them collecting dust put the to use and get an affordable motion sensing camera going.
+After thinking about this project for a while my idea was thinking of ways people like contractors who may need to find the light level of a room to figure out where to position light fixtures. I also figured that this is a useful feature to use in photography. I personally enjoy photography and light can play a huge factor in getting the shot you want. With a full rig of light setups, it would be important to know the luminance of the scene or shot being taken and having your phone be able to give.
